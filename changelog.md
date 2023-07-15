@@ -1,4 +1,4 @@
-# Implementation steps
+# Implementation steps `https://aws.amazon.com/getting-started/guides/deploy-webapp-copilot/module-one/`
 
 1. Installing Copilot CLI using this command (make sure you run `powershell` with admin access)
    `Invoke-WebRequest -OutFile 'C:\Program Files\copilot.exe' https://github.com/aws/copilot-cli/releases/latest/download/copilot-windows.exe`
